@@ -1,0 +1,158 @@
+@media screen and (min-width: 576) and (max-width: 768) {
+#Entire_Content {
+	width: 500px;
+	margin-left: 20px;
+}
+#Connect_Links{
+	display: inline;
+	float: left;
+}
+#Links {
+	display: inline;
+}
+#Main_Content{
+	display: inline;
+}
+}
+
+@media screen and (min-width: 769) and (max-width: 992) {
+	#Entire_Content{
+		width: 960px;
+		margin-left: 200px;
+	}
+
+}
+
+* {
+	box-sizing: border-box;
+} 
+
+h2 {
+	clear: both;
+	color: #4aaaa5;
+	font-size: 20px;
+}
+
+h3{
+	color: #4aaaa5;
+	font-size: 20px;
+}
+
+h6 {
+	border-style: solid;
+	border-bottom-width: 100%;
+	padding: 25px;
+	clear: both;
+	text-align: center;
+	background-color: #666666;
+}
+
+input[type=text], #Name {
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type=text], #Email {
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+input[type=text], #Message {
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#Header {
+	font-size: 30px;
+	display: inline;
+	float: left;
+	color: #4aaaa5;
+	width: 100px;
+	height: 100px;
+	margin-left: 200px;
+}
+
+#Image {
+	float: left;
+}
+
+
+#Entire_Content {
+	width: 960px;
+	margin-left: 200px;
+}
+
+#Links {
+	float: right;
+	display: inline;
+	margin-right: 420px;
+	margin-top: 50px;
+	color: #777777;
+}
+#Main_Content {
+	width: 650px;
+	display: inline;
+	float: left;
+	clear: left;
+	border: solid;
+	color: #777777;
+}
+#Connect_Links  {
+	width: 270px;
+	display: inline;
+	float: right;
+	border: solid;
+	color: #777777;
+	text-align: center;
+}
+
+.Images {
+	margin: 10px;
+}
+
+#Skyrim {
+	float: left;
+	margin-left: 100px;
+}
+
+#Youtube {
+	float: right;
+	margin-right: 100px;
+}
+
+#Reading {
+	float: left;
+	clear: left;
+	margin-left: 100px;
+}
+
+#Basketball {
+	float: right;
+	clear: right;
+	margin-right: 100px;
+}
+
+#Discord {
+	float: left;
+	clear: left;
+	margin-left: 100px;
+}
+
+#Psych {
+	float: right;
+	clear: right;
+	margin-right: 100px;
+}
+
+
